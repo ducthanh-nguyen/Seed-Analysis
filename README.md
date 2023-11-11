@@ -1,6 +1,6 @@
 ### Exploratory Data Analysis on Seed 
 
-![ray-photogram-13-18-cm-of-kernels](https://github.com/ducthanh-nguyen/Seed-Analysis/assets/150335868/ae45dde4-16fd-4f61-9dfe-c73c48d92157)
+![ray-photogram-13-18-cm-of-kernels](https://github.com/ducthanh-nguyen/Seed-Analysis/assets/150335868/ae45dde4-16fd-4f61-9dfe-c73c48d92157) <br>
 Seeds dataset - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/ray-photogram-13-18-cm-of-kernels_fig1_234073581 [accessed 11 Nov, 2023]
 
 #### Tasks
@@ -12,7 +12,7 @@ Seeds dataset - Scientific Figure on ResearchGate. Available from: https://www.r
 - Principal Component Analysis on the data
 
 #### Tools
-Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
+Python for Data Preparation, Data Visualisation and Data Analysis
 
 #### Data Set
 The dataset for this project consists of kernels belonging to three different varieties of wheat:
