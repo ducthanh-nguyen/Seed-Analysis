@@ -2,7 +2,7 @@
 
 ![ray-photogram-13-18-cm-of-kernels](https://github.com/ducthanh-nguyen/Seed-Analysis/assets/150335868/ae45dde4-16fd-4f61-9dfe-c73c48d92157) <br>
 
-#### Business Questions
+#### Data Questions
 - Is there any correlation between width, length and seed types?
 - What are the characteristics of each type?
 - Is there any correlation between wheat variety and other components
