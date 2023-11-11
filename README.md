@@ -6,7 +6,7 @@
 - Is there any correlation between width, length and seed types?
 - What are the characteristics of each type?
 - Is there any correlation between wheat variety and other components
-- Identify similar groups by clustering data
+- Identify similar groups by clustering data and Principal Component Analysi
 
 #### Tasks
 - Data Preparation
