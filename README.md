@@ -11,7 +11,7 @@
 - Principal Component Analysis on the data
 
 #### Tools
-Python for Data Preparation, EDA and Analysis
+Python (Jupyter Notebook)
 
 #### Data Set
 The dataset for this project consists of kernels belonging to three different varieties of wheat:
