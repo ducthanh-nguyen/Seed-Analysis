@@ -12,7 +12,7 @@ Seeds dataset - Scientific Figure on ResearchGate. Available from: https://www.r
 - Principal Component Analysis on the data
 
 #### Tools
-Python for Data Preparation, Data Visualisation and Data Analysis
+Python for Data Preparation, EDA and Analysis
 
 #### Data Set
 The dataset for this project consists of kernels belonging to three different varieties of wheat:
