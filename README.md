@@ -1,4 +1,4 @@
-### Seed Analysis
+# Seed Analysis
 ### Exploratory Data Analysis on Seed 
 
 ![ray-photogram-13-18-cm-of-kernels](https://github.com/ducthanh-nguyen/Seed-Analysis/assets/150335868/ae45dde4-16fd-4f61-9dfe-c73c48d92157) <br>
